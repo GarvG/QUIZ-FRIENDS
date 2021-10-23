@@ -1,7 +1,8 @@
 # QUIZ-FRIENDS
 QUIZ ON FRIENDS
 Skills Used
-1.Node js
-2.Basic if else
-3.Chalk 
-4.User-Input
+1. Node js <br>
+2.Basic if else <br>
+3.Chalk <br>
+4.User-Input <br>
+
